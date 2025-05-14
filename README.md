@@ -1,7 +1,27 @@
-![GuOx Banner](https://raw.githubusercontent.com/GuOxJS/assets/main/banner.svg)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GuOxJS/assets/main/guox-logo.svg" width="120" height="120" alt="GuOx Logo">
+  <a href="https://github.com/GuOxJS/guox-v12/stargazers">
+    <img src="https://img.shields.io/github/stars/icelaterdc/guox?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  </a>
+  <img src="https://img.shields.io/github/forks/icelaterdc/guox?style=for-the-badge&color=orange" alt="Forks"/>
+
+  <a href="https://www.npmjs.com/package/guox">
+    <img src="https://img.shields.io/npm/v/guox?style=for-the-badge&color=blue" alt="NPM Version"/>
+  </a>
+  <img src="https://img.shields.io/npm/dt/guox?style=for-the-badge&color=green" alt="Downloads"/>
+  <img src="https://img.shields.io/github/license/icelaterdc/guox?style=for-the-badge&color=lightgrey" alt="License"/>
+
+  <img src="https://img.shields.io/badge/framework-Express.js-red?style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=for-the-badge" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/node-%3E=18.0.0-green?style=for-the-badge" alt="Node Version"/>
+
+  <img src="https://img.shields.io/codefactor/grade/github/GuOxJS/guox-v12?style=for-the-badge" alt="Code Quality"/>
+  <img src="https://img.shields.io/bundlephobia/minzip/guox?style=for-the-badge&label=minzipped%20size" alt="Minified Size"/>
+
+  <img src="https://img.shields.io/snyk/vulnerabilities/npm/guox?style=for-the-badge&color=critical" alt="Snyk Vulnerabilities"/>
+  <img src="https://img.shields.io/badge/secure-by%20design-%E2%9C%94%EF%B8%8F-green?style=for-the-badge" alt="Secure by Design"/>
+
+  <img src="https://img.shields.io/github/actions/workflow/status/icelaterdc/guox/test.yml?style=for-the-badge" alt="CI Status"/>
+  <img src="https://img.shields.io/codecov/c/github/icelaterdc/guox?style=for-the-badge" alt="Coverage"/>
 </p>
 
 # GuOx v12 — AgeSkip Edition
