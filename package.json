@@ -1,6 +1,6 @@
 {
-  "name": "guox",
-  "version": "1.0.0-express",
+  "name": "guox-express",
+  "version": "1.0.0",
   "description": "GuOx — Age‑Skip v12: Ultimate enterprise‑grade, AI & WASM‑powered Express security framework",
   "repository": "https://github.com/your‑org/guox",
   "main": "dist/index.js",
