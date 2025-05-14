@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/codecov/c/github/icelaterdc/guox?style=for-the-badge" alt="Coverage"/>
 </p>
 
-# GuOx v12 — AgeSkip Edition
+# GuOx v1 AgeSkip Edition
 
 > **GuOx** is an elite-grade, modular security framework for Express.js designed for zero-trust environments, real-time threat mitigation, and scalable hardening strategies — all with a single import or fine-tuned configuration. Welcome to secure-by-design web architecture.
 
