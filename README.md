@@ -215,7 +215,7 @@ npm run dev
 
 ## 📄 License
 
-MIT License © 2025 — GuOxJS Contributors
+MIT License © 2025 — Oxiron Development
 
 ---
 
