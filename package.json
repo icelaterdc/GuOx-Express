@@ -1,5 +1,5 @@
 {
-  "name": "guox-express",
+  "name": "guox",
   "version": "1.0.0",
   "description": "GuOx — Age‑Skip v12: Ultimate enterprise‑grade, AI & WASM‑powered Express security framework",
   "repository": "https://github.com/your‑org/guox",
@@ -17,9 +17,9 @@
     "slow-down","input-sanitizer","input-validator","oauth-guard","graphql-shield",
     "api-protection","dependency-scanner"
   ],
-  "author": "GuOx Team",
+  "author": "Oxiron Development",
   "license": "MIT",
-  "engines": { "node": ">=18.0.0" },
+  "engines": { "node": ">=16.0.0" },
   "dependencies": {
     "celebrate": "^16.0.0",
     "csurf": "^1.11.0",
