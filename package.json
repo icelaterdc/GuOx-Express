@@ -19,7 +19,7 @@
   ],
   "author": "Oxiron Development",
   "license": "MIT",
-  "engines": { "node": ">=16.0.0" },
+  "engines": { "node": ">=18.0.0" },
   "dependencies": {
     "celebrate": "^16.0.0",
     "csurf": "^1.11.0",
