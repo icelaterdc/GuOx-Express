@@ -3,24 +3,21 @@
     <img
       src="https://raw.githubusercontent.com/icelaterdc/GuOx/main/express-icon.png"
       alt="Express Icon"
-      width="48"
+      width="500"
     />
   </a>
-
   <a href="https://github.com/icelaterdc/guox/stargazers">
     <img
       src="https://img.shields.io/github/stars/icelaterdc/guox?style=for-the-badge&color=yellow"
       alt="GitHub Stars"
     />
   </a>
-
   <a href="https://github.com/icelaterdc/guox/network/members">
     <img
       src="https://img.shields.io/github/forks/icelaterdc/guox?style=for-the-badge&color=orange"
       alt="Forks"
     />
   </a>
-
   <a href="https://www.npmjs.com/package/guox-express">
     <img
       src="https://img.shields.io/npm/v/guox-express?style=for-the-badge&color=blue"
@@ -35,7 +32,6 @@
     src="https://img.shields.io/github/license/icelaterdc/guox?style=for-the-badge&color=lightgrey"
     alt="License"
   />
-
   <img
     src="https://img.shields.io/badge/framework-Express.js-red?style=for-the-badge"
     alt="Express.js"
