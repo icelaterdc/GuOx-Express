@@ -102,7 +102,7 @@ npm install guox-express
 
 ```js
 const express = require('express');
-const { GuOx } = require('guox');
+const { GuOx } = require('guox-express');
 
 const app = express();
 GuOx(app, {
