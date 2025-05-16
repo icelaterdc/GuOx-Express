@@ -5,9 +5,9 @@
   <img src="https://img.shields.io/github/forks/icelaterdc/guox?style=for-the-badge&color=orange" alt="Forks"/>
 
   <a href="https://www.npmjs.com/package/guox">
-    <img src="https://img.shields.io/npm/v/guox?style=for-the-badge&color=blue" alt="NPM Version"/>
+    <img src="https://img.shields.io/npm/v/guox-express?style=for-the-badge&color=blue" alt="NPM Version"/>
   </a>
-  <img src="https://img.shields.io/npm/dt/guox?style=for-the-badge&color=green" alt="Downloads"/>
+  <img src="https://img.shields.io/npm/dt/guox-express?style=for-the-badge&color=green" alt="Downloads"/>
   <img src="https://img.shields.io/github/license/icelaterdc/guox?style=for-the-badge&color=lightgrey" alt="License"/>
 
   <img src="https://img.shields.io/badge/framework-Express.js-red?style=for-the-badge" alt="Express.js"/>
