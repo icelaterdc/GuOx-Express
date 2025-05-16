@@ -6,6 +6,9 @@
       width="500"
     />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/icelaterdc/guox/stargazers">
     <img
       src="https://img.shields.io/github/stars/icelaterdc/guox?style=for-the-badge&color=yellow"
