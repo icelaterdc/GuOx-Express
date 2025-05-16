@@ -16,7 +16,7 @@
 
   <img src="https://img.shields.io/bundlephobia/minzip/guox-express?style=for-the-badge&label=minzipped%20size" alt="Minified Size"/>
 
-  <img src="https://img.shields.io/snyk/vulnerabilities/npm/guox?style=for-the-badge&color=critical" alt="Snyk Vulnerabilities"/>
+  <img src="https://img.shields.io/snyk/vulnerabilities/npm/guox-express?style=for-the-badge&color=critical" alt="Snyk Vulnerabilities"/>
 
   <img src="https://img.shields.io/github/actions/workflow/status/icelaterdc/guox/test.yml?style=for-the-badge" alt="CI Status"/>
   <img src="https://img.shields.io/codecov/c/github/icelaterdc/guox?style=for-the-badge" alt="Coverage"/>
