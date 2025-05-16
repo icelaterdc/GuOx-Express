@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png">
+  <a href="https://raw.githubusercontent.com/icelaterdc/GuOx/refs/heads/main/express.png">
     <img src="https://img.shields.io/github/stars/icelaterdc/guox?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
   </a>
   <img src="https://img.shields.io/github/forks/icelaterdc/guox?style=for-the-badge&color=orange" alt="Forks"/>
