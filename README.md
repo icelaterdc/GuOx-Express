@@ -73,7 +73,7 @@
 ## 🚀 Installation
 
 ```bash
-npm install guox
+npm install guox-express
 ```
 
 ---
