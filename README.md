@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/framework-Express.js-red?style=for-the-badge" alt="Express.js"/>
   <img src="https://img.shields.io/badge/language-TypeScript-blue?style=for-the-badge" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/node-%3E=16.0.0-green?style=for-the-badge" alt="Node Version"/>
-
-  <img src="https://img.shields.io/github/actions/workflow/status/icelaterdc/guox/test.yml?style=for-the-badge" alt="CI Status"/>
   </p>
 
 # GuOx v1 AgeSkip Edition
