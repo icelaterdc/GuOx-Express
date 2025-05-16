@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/snyk/vulnerabilities/npm/guox-express?style=for-the-badge&color=critical" alt="Snyk Vulnerabilities"/>
 
   <img src="https://img.shields.io/github/actions/workflow/status/icelaterdc/guox/test.yml?style=for-the-badge" alt="CI Status"/>
-  <img src="https://img.shields.io/codecov/c/github/icelaterdc/guox?style=for-the-badge" alt="Coverage"/>
-</p>
+  </p>
 
 # GuOx v1 AgeSkip Edition
 
