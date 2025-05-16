@@ -1,19 +1,55 @@
 <p align="center">
-  <a href="https://raw.githubusercontent.com/icelaterdc/GuOx/refs/heads/main/express-icon.png">
-    <img src="https://img.shields.io/github/stars/icelaterdc/guox?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+  <a href="https://github.com/icelaterdc/GuOx">
+    <img
+      src="https://raw.githubusercontent.com/icelaterdc/GuOx/main/express-icon.png"
+      alt="Express Icon"
+      width="48"
+    />
   </a>
-  <img src="https://img.shields.io/github/forks/icelaterdc/guox?style=for-the-badge&color=orange" alt="Forks"/>
 
-  <a href="https://www.npmjs.com/package/guox">
-    <img src="https://img.shields.io/npm/v/guox-express?style=for-the-badge&color=blue" alt="NPM Version"/>
+  <a href="https://github.com/icelaterdc/guox/stargazers">
+    <img
+      src="https://img.shields.io/github/stars/icelaterdc/guox?style=for-the-badge&color=yellow"
+      alt="GitHub Stars"
+    />
   </a>
-  <img src="https://img.shields.io/npm/dt/guox-express?style=for-the-badge&color=green" alt="Downloads"/>
-  <img src="https://img.shields.io/github/license/icelaterdc/guox?style=for-the-badge&color=lightgrey" alt="License"/>
 
-  <img src="https://img.shields.io/badge/framework-Express.js-red?style=for-the-badge" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/language-TypeScript-blue?style=for-the-badge" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/node-%3E=16.0.0-green?style=for-the-badge" alt="Node Version"/>
-  </p>
+  <a href="https://github.com/icelaterdc/guox/network/members">
+    <img
+      src="https://img.shields.io/github/forks/icelaterdc/guox?style=for-the-badge&color=orange"
+      alt="Forks"
+    />
+  </a>
+
+  <a href="https://www.npmjs.com/package/guox-express">
+    <img
+      src="https://img.shields.io/npm/v/guox-express?style=for-the-badge&color=blue"
+      alt="NPM Version"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/npm/dt/guox-express?style=for-the-badge&color=green"
+    alt="Downloads"
+  />
+  <img
+    src="https://img.shields.io/github/license/icelaterdc/guox?style=for-the-badge&color=lightgrey"
+    alt="License"
+  />
+
+  <img
+    src="https://img.shields.io/badge/framework-Express.js-red?style=for-the-badge"
+    alt="Express.js"
+  />
+  <img
+    src="https://img.shields.io/badge/language-TypeScript-blue?style=for-the-badge"
+    alt="TypeScript"
+  />
+  <img
+    src="https://img.shields.io/badge/node-%3E=16.0.0-green?style=for-the-badge"
+    alt="Node Version"
+  />
+</p>
+
 
 # GuOx v1 AgeSkip Edition
 
