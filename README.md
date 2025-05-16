@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/icelaterdc/GuOx">
     <img
-      src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png"
+      src="https://raw.githubusercontent.com/icelaterdc/GuOx/main/express-icon.png"
       alt="Express Icon"
       width="500"
     />
