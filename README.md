@@ -247,7 +247,7 @@ MIT License © 2025 — Oxiron Development
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GuOxJS/assets/main/footer-lock.svg" width="120" alt="Secure Footer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Antu_security-high.svg/480px-Antu_security-high.svg.png" width="120" alt="Secure Footer">
 </p>
 
 > **GuOx** — From protocol to payload, defend everything.
