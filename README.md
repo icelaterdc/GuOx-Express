@@ -12,7 +12,7 @@
 
   <img src="https://img.shields.io/badge/framework-Express.js-red?style=for-the-badge" alt="Express.js"/>
   <img src="https://img.shields.io/badge/language-TypeScript-blue?style=for-the-badge" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/node-%3E=18.0.0-green?style=for-the-badge" alt="Node Version"/>
+  <img src="https://img.shields.io/badge/node-%3E=16.0.0-green?style=for-the-badge" alt="Node Version"/>
 
   <img src="https://img.shields.io/codefactor/grade/github/GuOxJS/guox-v12?style=for-the-badge" alt="Code Quality"/>
   <img src="https://img.shields.io/bundlephobia/minzip/guox?style=for-the-badge&label=minzipped%20size" alt="Minified Size"/>
