@@ -232,7 +232,7 @@ The `SelfLearningLayer`:
 We welcome pull requests, ideas, threat reports, and security enhancements.
 
 ```bash
-git clone https://github.com/GuOxJS/guox.git
+git clone https://github.com/nuekkis/GuOx-Express.git
 cd guox
 npm install
 npm run dev
@@ -242,7 +242,7 @@ npm run dev
 
 ## 📄 License
 
-MIT License © 2025 — Oxiron Development
+MIT License © 2025 — nuekkis
 
 ---
 
